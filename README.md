@@ -1,7 +1,7 @@
 # Hello
 ## This is my readme
 
-> ***I'm Neel. I know no coding languages and I'm still learning. My aspirations for what I will learn is that I may be able to create a file and/or program which I can open and see and interact with something cool inside it that may, perhaps combine all of my interests together into one.***
+> ***I'm Neel. I know no coding languages and I'm still learning. One of my goals for what I will learn is that I may be able to create a file and/or program which I can open and see and interact with something cool inside it that may, perhaps combine all of my interests together into one.***
 
 # **Anyways**
 # Goodbye

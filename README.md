@@ -1,7 +1,7 @@
 # Hello
 ## This is my readme
 
-> ***I'm Neel Vinu Pillai, My origins are from North and South India. I have done a few tinkercad projects(Year 10 Pa Project, Year 7 - 11 3D Printing), and some 3D printing projects. I want to do Digi-Tech since coding may be a useful skill to have in the future. I know no coding languages and I'm still learning. My aspirations for what I will learn is that I may be able to create a file which I can open and see and interact with something cool inside it that may, maybe, combine all of my interests together into one.***
+> ***I'm Neel. I know no coding languages and I'm still learning. My aspirations for what I will learn is that I may be able to create a file and/or program which I can open and see and interact with something cool inside it that may, perhaps combine all of my interests together into one.***
 
 # **Anyways**
 # Goodbye
